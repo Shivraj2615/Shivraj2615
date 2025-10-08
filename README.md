@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shivraj Jagdale
 
-<!--
-**Shivraj2615/Shivraj2615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Full Stack Developer** | 🌱 Currently learning **MERN Stack** (MongoDB, Express, React, Node.js)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🎯 Passionate about building responsive and dynamic web applications  
+- 🧠 Learning by building real-world projects  
+- 🤝 Open to collaborations and internships  
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, Mongoose  
+**Tools & Others:** Git, GitHub, VS Code, Postman, Cloudinary, Render  
+
+---
+
+### 📚 Current Focus
+- Improving backend skills with Express & MongoDB  
+- Building full-stack MERN projects  
+- Strengthening my Git and GitHub workflow  
+
+---
+
+⭐️ *“Learning by doing, one commit at a time.”*
